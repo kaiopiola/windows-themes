@@ -7,3 +7,8 @@ Her name is a play on her voice actor's, Nana Mizuki, as well as Windows 7. The 
 In Madobe Nanami no Windows 7 de PC Jisaku Ouen, she is a computer store employee.
 
 Nanami also has her very own Twitter account.
+
+## Installation
+
+Just export the folders and .theme file into your themes folder (%LocalAppData%\Microsoft\Windows\Themes), then, run Nanami_BR.theme. 
+Check your Windows settings for theme selection.
